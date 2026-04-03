@@ -4,7 +4,7 @@
 </docs-decorative-header>
 
 <div style="margin: 2em">
-  Mantido por uma equipe dedicada do Google, o Angular oferece um grande pacote de ferramentas, APIs e bibliotecas para simplificar e otimizar seu desenvolvimento do fluxo de trabalho. O Angular oferece a você uma plataforma sólida para construir aplicações rápidas e confiáveis que se adaptam ao tamanho da sua equipe e ao tamanho da sua base de código. O Angular.dev é o site oficial da documentação do Angular.
+  Mantido por uma equipe dedicada do Google, o Angular oferece um grande pacote de ferramentas, APIs e bibliotecas para simplificar e      otimizar seu desenvolvimento do fluxo de trabalho. O Angular oferece a você uma plataforma sólida para construir aplicações rápidas e    confiáveis que se adaptam ao tamanho da sua equipe e ao tamanho da sua base de código. O Angular.dev é o site oficial da documentação    do Angular.
 </div>
 
 <docs-nav-card title="Gostaria de ver código?" iconImgSrc="adev/src/assets/icons/star.svg">
